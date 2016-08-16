@@ -92,7 +92,7 @@ override the instructions of the prior rules. Give
 
 ### Do: Predict Styling by Reading CSS
 
-Read through the [blog.html](./exercises/blog.html) and
+Read through [blog.html](./exercises/blog.html) and
 [blog.css](./exercises/blog.css).
 
 Each bullet point below lists a property for some element or group of elements;
