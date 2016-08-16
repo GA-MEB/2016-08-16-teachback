@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+}
+header, article {
+  background-color: yellow;
+  text-align: center;
+  font-family: 'impulse';
+}
+footer {
+  color: white;
+}
+
+p {
+  text-align: left;
+  background-color: rgba(100, 100, 100, 0.6);
+}
+
+ul {
+  background-color: grey;
+}
+lh {
+  font-size: 30px;
+}
+li {
+  text-align: left;
+  color: black;
+}
+
+.pro {
+  background-color: #00DD00;
+}
+.con {
+  background-color: #FF0000;
+}
+
+#about-us {
+  background-color: red;
+  color: black;
+}
+#archives {
+  background-color: blue;
+  color: white;
+}
+#best-batman {
+  background: url('http://media.dcentertainment.com/sites/default/files/GalleryComics_1920x1080_20160427_BM_Cv51_56f33d0526d1a5.59154201.jpg') center;
+  color: #DDD;
+}
+.joker {
+  text-align: center;
+  color: white;
+  background-color: purple;
+  border: green 5px solid;
+  margin: 0px 30% 0px;
+}
